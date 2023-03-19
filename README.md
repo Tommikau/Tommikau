@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tommikau
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning C# and Asp.net
+- 🌱 I’m currently learning C#, Asp.net, JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
