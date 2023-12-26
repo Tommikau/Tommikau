@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tommi
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning C#, Asp.net, JavaScript, React, Django and Python
+- 👀 I’m interested in learning to code more
+- 🌱 I’m currently learning C#, Asp.net, JavaScript, React, Django and
+      Python,SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
